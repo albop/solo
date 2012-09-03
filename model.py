@@ -1,3 +1,5 @@
+from __future__ import division
+
 import sympy
 from symbolic import Equation,Variable,Shock,Parameter
 
